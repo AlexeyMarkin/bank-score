@@ -1,2 +1,2 @@
-# Bank-score
+# bank-score
 Снятие и пополнение счета
